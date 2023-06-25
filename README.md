@@ -6,5 +6,8 @@ Gathers sampling parameters f and t.
 ### KaimalModel.py
 Kaimal spectral model.
 
+### Davenport.py
+Calculate the coherence using the Davenport coherence model.
+
 ### Example.py
 Example of how getSamplingPara.py and KaimalModel.py can be used in unison to plot the Kaimal spectral model.
