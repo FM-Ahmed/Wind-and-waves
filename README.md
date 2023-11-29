@@ -1,7 +1,7 @@
 # Wind-modelling
 ## Contents
 ### getSamplingPara.py
-Gathers sampling parameters f and t.
+Gathers sampling parameters f and t. Credit author Etienne Cheynet: https://se.mathworks.com/matlabcentral/profile/authors/4608373
 
 ### KaimalModel.py
 Kaimal spectral model.
