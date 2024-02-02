@@ -1,4 +1,4 @@
-# Wind-modelling
+# Wind
 ### getSamplingPara.py
 Gathers sampling parameters f and t. Originally written by Etienne Cheynet in MATLAB: https://se.mathworks.com/matlabcentral/profile/authors/4608373
 
@@ -11,7 +11,7 @@ Calculate the coherence using the Davenport coherence model.
 ### Example.py
 Example of how getSamplingPara.py and KaimalModel.py can be used in unison to plot the Kaimal spectral model.
 
-# Low-level-jet
+## Low-level-jet
 ### generate_LLJ.py
 Generates random low-level jets based on input parameters. Can keep either the LLJ core-speed or LLJ core-height equal.
 
